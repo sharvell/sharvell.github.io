@@ -1,7 +1,6 @@
 #!/bin/bash
 
-ewho "Press [Enter] key to push updates..."
-wait 10s
+echo "Press [Enter] key to push updates..."
 git pull
 if [[ ! $? -eq 0 ]]; then
   echo "Please fix tracking FIRST"
@@ -12,10 +11,12 @@ fi
 git add --all
 git commit -m"updates: %1"
 git push
-if [[ ! $? -eq 0 ]]; then
+ret=$?
+if [[ ! $ret -eq 0 ]]; then
   echo "Please fix tracking FIRST"
-  exit 1
+  exit $ret
 fi
+$0
 echo "Done"
 exit 0
 
