@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Press [Enter] key to push updates..."
+sleep 3
 git pull
 if [[ ! $? -eq 0 ]]; then
   echo "Please fix tracking FIRST"
@@ -18,7 +18,6 @@ if [[ ! $ret -eq 0 ]]; then
 fi
 $0
 echo "Done"
-sleep 5000
 exit 0
 
 
