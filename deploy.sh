@@ -12,6 +12,10 @@ git push
 
 echo "Done"
 
+$0
+exit 0
+
+
 #7 
 #9p
 #10
