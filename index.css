@@ -1,16 +1,58 @@
 html { 
-  background: url(index3.jpg) no-repeat center center fixed; 
+  background: url(index24.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
   border: 0px;
   padding: 0px;
-  height: 100%;
+  width: 100%;  
 }
 
 body {
   height: 100%;
   border: 0px;
   padding: 0px;
+}
+
+
+.pad {
+  margin: 50px;
+  padding: 50px;
+}
+
+.btn {
+  float: right;
+  position: absolute;
+  right: 210px;
+  top: 170px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 90px;
+  background-color: darkgoldenrod;
+  border: 50px solid darkgoldenrod;
+  -moz-border-radius: 20px;   /* Also tried 20px 20px  */
+  -webkit-border-radius: 20px; 
+  -o-border-radius: 20px;
+  -khtml-border-radius: 20px;
+  border-radius: 20px;
+}
+
+.round {
+  border: 50px solid darkgoldenrod;
+  -webkit-border-top-left-radius: 50px;
+  -webkit-border-top-right-radius: 50px;
+  -webkit-border-bottom-right-radius: 50px;
+  -webkit-border-bottom-left-radius: 50px;
+
+  -moz-border-radius-topleft: 50px;
+  -moz-border-radius-topright: 50px;
+  -moz-border-radius-bottomright: 50px;
+  -moz-border-radius-bottomleft: 50px;
+
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+  border-bottom-right-radius: 50px;
+  border-bottom-left-radius: 50px;
+  -khtml-border-radius: 20px;
+  border-radius: 20px;
 }
