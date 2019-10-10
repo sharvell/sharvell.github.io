@@ -15,6 +15,8 @@ body {
   padding: 0px;
 }
 
+.link { color: #FF0000; } /* CSS link color (red) */
+.link:hover { color: #00FF00; }
 
 .btn {
   float: right;
@@ -27,8 +29,6 @@ body {
   font-size: 30px;
   background-color: #2d64f7;
   border: 10px solid #2d64f7;
-  -moz-border-radius: 20px;   /* Also tried 20px 20px  */
-\
 }
 
 .round {
