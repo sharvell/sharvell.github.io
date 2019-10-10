@@ -17,7 +17,7 @@ body {
 }
 
 .link { color: #FFFFFF; text-decoration: none  } /* CSS link color (red) */
-.link:hover { color: #00FF00; }
+.link:hover { color: #d08539; }
 
 .btn {
   float: right;

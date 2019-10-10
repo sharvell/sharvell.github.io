@@ -1,6 +1,6 @@
 #!/bin/bash
 
-exho "Press [Enter] key to push updates..."
+ewho "Press [Enter] key to push updates..."
 wait 10s
 git pull
 if [[ ! $? -eq 0 ]]; then
@@ -16,10 +16,7 @@ if [[ ! $? -eq 0 ]]; then
   echo "Please fix tracking FIRST"
   exit 1
 fi
-
-
 echo "Done"
-$0
 exit 0
 
 
