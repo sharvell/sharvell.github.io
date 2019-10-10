@@ -28,8 +28,8 @@ body {
   top: 10px;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 30px;
-  background-color: darkgoldenrod;
-  border: 50px solid darkgoldenrod;
+  background-color: #535351;
+  border: 10px solid #535351;
   -moz-border-radius: 20px;   /* Also tried 20px 20px  */
   -webkit-border-radius: 20px; 
   -o-border-radius: 20px;
@@ -38,13 +38,13 @@ body {
 }
 
 .round {
-  border: 50px solid darkgoldenrod;
+  border: 10px solid darkgoldenrod;
   -webkit-border-top-left-radius: 20px;
   -webkit-border-top-right-radius: 20px;
   -webkit-border-bottom-right-radius: 20px;
   -webkit-border-bottom-left-radius: 20px;
 
-  -moz-border-radius-topleft: 52px;
+  -moz-border-radius-topleft: 20px;
   -moz-border-radius-topright: 20px;
   -moz-border-radius-bottomright: 20px;
   -moz-border-radius-bottomleft: 20px;
