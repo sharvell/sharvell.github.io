@@ -9,6 +9,7 @@ html {
   width: 100%;  
 }
 
+/* for landscape photos repolace height beow with width:100% */
 body {
   height: 100%;
   border: 0px;
