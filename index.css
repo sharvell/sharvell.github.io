@@ -15,7 +15,7 @@ body {
   padding: 0px;
 }
 
-.link { color: #FF0000; } /* CSS link color (red) */
+.link { color: #FFFFFF; } /* CSS link color (red) */
 .link:hover { color: #00FF00; }
 
 .btn {
