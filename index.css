@@ -27,7 +27,7 @@ body {
   right: 210px;
   top: 170px;
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 50px;
+  font-size: 30px;
   background-color: darkgoldenrod;
   border: 50px solid darkgoldenrod;
   -moz-border-radius: 20px;   /* Also tried 20px 20px  */
