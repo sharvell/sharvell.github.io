@@ -16,25 +16,19 @@ body {
 }
 
 
-.pad {
-  margin: 5px;
-  padding: 5px;
-}
-
 .btn {
   float: right;
   position: absolute;
   right: 20px;
   top: 20px;
+  margin: 10px;
+  padding: 10px;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 30px;
   background-color: #2d64f7;
   border: 10px solid #2d64f7;
   -moz-border-radius: 20px;   /* Also tried 20px 20px  */
-  -webkit-border-radius: 20px; 
-  -o-border-radius: 20px;
-  -khtml-border-radius: 20px;
-  border-radius: 20px;
+\
 }
 
 .round {
@@ -55,4 +49,6 @@ body {
   border-bottom-left-radius: 20px;
   -khtml-border-radius: 20px;
   border-radius: 20px;
+  -webkit-border-radius: 20px; 
+  -o-border-radius: 20px;
 }
