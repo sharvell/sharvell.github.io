@@ -1,5 +1,6 @@
 #!/bin/bash
 
+read -p "Press [Enter] key to push updates..."
 git pull
 if [[ ! $? -eq 0 ]]; then
   echo "Please fix tracking FIRST"
