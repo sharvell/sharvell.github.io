@@ -18,6 +18,7 @@ if [[ ! $ret -eq 0 ]]; then
 fi
 $0
 echo "Done"
+sleep 50
 exit 0
 
 
