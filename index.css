@@ -9,6 +9,17 @@ html {
   width: 100%;  
 }
 
+a {
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover {
+    text-decoration: none;
+    display: inline-block;
+}
+
+
 /* for landscape photos repolace height beow with width:100% */
 body {
   height: 100%;
