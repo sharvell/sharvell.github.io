@@ -12,6 +12,7 @@ html {
 a {
     text-decoration: none;
     display: inline-block;
+    color: #ffffff;
 }
 
 /* unvisited link */
@@ -27,7 +28,6 @@ a:visited {
 /* mouse over link */
 a:hover {
   color: #ffffff;
-  
 }
 
 /* selected link */
@@ -43,8 +43,8 @@ body {
   padding: 0px;
 }wait 10s
 
-.link { color: #FFFFFF; text-decoration: none  } /* CSS link color (red) */
-.link:hover { color: #d08539; }
+.xlink { color: #FFFFFF; text-decoration: none  } /* CSS link color (red) */
+.xlink:hover { color: #d08539; }
 
 .btn {
   float: right;
