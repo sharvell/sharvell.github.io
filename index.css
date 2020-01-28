@@ -14,9 +14,25 @@ a {
     display: inline-block;
 }
 
+/* unvisited link */
+a:link {  
+  color: #ffffff;
+}
+
+/* visited link */
+a:visited {
+  color: #ffffff;
+}
+
+/* mouse over link */
 a:hover {
-    text-decoration: none;
-    display: inline-block;
+  color: #ffffff;
+  
+}
+
+/* selected link */
+a:active {
+  color: #ffffff;
 }
 
 
