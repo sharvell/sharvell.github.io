@@ -1,0 +1,86 @@
+= DEEM: Digital Testing
+Digital testing
+:icons: font
+:toc: left
+
+== Testing
+
+// === SECTION Testing Notes
+// include::inc_barcode.inc[]
+
+=== Test Links
+include::inc_test_links.inc[]
+
+// === Test Related Updates
+// .Latest Updates
+// ****
+// include::version.txt[]
+// ****
+
+// === SECTION Additional Test information
+// include::inc_adtl_info.inc[]
+
+// === Services
+// [cols="1,3", options="header"] 
+// .Services
+// |===
+// |Name
+// |Link
+// |Mule proxy
+// |http://mule.dunia.site/
+// |Service utility endpoints
+// |http://service.dunia.site/
+// |===
+
+// [cols="1,3", options="header"] 
+// .Utility
+// |===
+// |Name
+// |Link
+
+// |Accurascan MRZ/OCR
+// |http://service.dunia.site/i/ocr-mrzdata-from-uaeid.php
+// |Testing page
+// |http://testing.dunia.site/
+// |Email validation
+// |http://service.dunia.site/i/emailvalidate.php
+// |===
+
+// == DevOps
+// === Reference Architecture
+// icon:forward[sa] Will update older version with latest container model when complete.
+
+// image::oldref.png[refarch,1000,100]
+
+// === Development Environment
+// image::devenv.png[refarch,1000,100]
+// == DevOps
+// === Reference Architecture
+// icon:forward[sa] Will update older version with latest container model when complete.
+
+// image::oldref.png[refarch,1000,100]
+
+// === Development Environment
+// image::devenv.png[refarch,1000,100]
+// == Other
+// === Testing Chat
+// ++++
+// <div style="height: 500px;"><div id="rt-c15cceaa000441e742eccb1df7e48366"></div> <script src="https://www.rumbletalk.com/client/?*J@ULQu9"></script></div>
+// ++++
+
+// === Monitoring and Chat Screens
+// image::chat0.png[chat1,800,100]
+// image::chat1.png[chat2,800,100]
+// image::chat2.png[chat3,500,100]
+// image::chat3.png[chat4,500,100]
+// image::world1.png[chat4,800,100]
+// image::world2.png[chat4,800,100]
+
+// == Update Board
+// ++++
+// <!--Start of nabble Script-->
+// <a id="nabblelink" href="http://brand-digital-testing.164727.n8.nabble.com/">BRAND DIGITAL TESTING</a>
+// <script src="http://brand-digital-testing.164727.n8.nabble.com/embed/f1"></script>
+// <!--End of nabble Script-->
+// ++++
+// '''

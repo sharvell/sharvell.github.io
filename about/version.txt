@@ -1,0 +1,6 @@
+      Tue Aug 06 2019
+      -website running in dev stage should match hanzo
+      -MULE returning error for bank list, blocking onboarding
+
+      Sun Aug 04 2019
+      -v0.15.0 onboarding live

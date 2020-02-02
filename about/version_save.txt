@@ -1,0 +1,29 @@
+      Tue Aug 06 23:10:00 GST 2019
+      -website running in dev stage should match hanzo
+      -MULE returning error for bank list, blocking onboarding
+
+      Sun Aug 04 17:44:37 GST 2019
+      -v0.15.0 onboarding live
+
+      Mon Jul 29 18:10:33 +04 2019
+      -all sites at versiom 0.14.0
+
+      Thu Jul 25 23:02:15 +04 2019
+      -All sites live on new webserver   
+
+      Tue Jul 16 18:00:15 +04 2019      
+      -Code conflicts resolved, all sites reflect current code changes
+          
+      Tue Jul 16 15:15:15 +04 2019
+      -Public website now up and feeding from Dunia CMS
+      -Link added for NBC Card
+      -Loan Identity screen is currently mocked until Mulesoft update is released. 
+          
+      Tue Jul 16 05:35:38 +04 2019
+      -All sites gave been refreshed with the latest code updates.
+      -CMS/Twill now up for testing. 
+      -The API for the public website content is in an error state and the new work in progress. The 
+       latest code modifications provided by Hanzo can be tested with the public website working link. 
+
+      Sun Jul 14 16:00:13 +04 2019
+      -Spoke with Hanzo, they will be providing code updates tomorrow.
