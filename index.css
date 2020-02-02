@@ -54,13 +54,13 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 30px;
   color: #FFFFFF;
-  background-color: #2d64f7;
-  border: 10px solid #2d64f7;
+  background-color: #5d65a5;
+  border: 10px solid #5d65a5;
   opacity: 0.7;
 }
 
 .round {
-  border: 10px solid #2d64f7;
+  border: 10px solid #5d65a5;
   -webkit-border-top-left-radius: 20px;
   -webkit-border-top-right-radius: 20px;
   -webkit-border-bottom-right-radius: 20px;
