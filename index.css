@@ -48,7 +48,7 @@ body {
   float: left;
   position: absolute;
   left: 20px;
-  top: 20px
+  bottom: 20px
 }
 
 .btn {
