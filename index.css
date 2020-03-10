@@ -44,6 +44,13 @@ body {
   padding: 0px;
 }
 
+.LI-profile-badge {
+  float: left;
+  position: absolute;
+  left: 20px;
+  top: 20px
+}
+
 .btn {
   float: right;
   position: absolute;
